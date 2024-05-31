@@ -35,3 +35,15 @@ a{
     font-weight: 500;
     margin: 15px;
 }
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.introduccion{
+    position: relative;
+    width: 80px;
+    border: 2px solid red;
+}

@@ -49,4 +49,12 @@ a{
     width: 220px;
     height: 200px;
     font-size: 30px;
+    font-weight: 700;
+}
+.texto{
+    text-align: left;
+    color: #979797;
+    font-size: 30px;
+    border: 2px solid red;
+    width: 300px;
 }

@@ -43,7 +43,12 @@ a{
     height: 100vh;
 }
 .introduccion{
+    align-items: flex-start;
     position: relative;
-    width: 80px;
+    right: 400px;
+    width: 220px;
+    height: 200px;
     border: 2px solid red;
+    font-size: 30px;
+    text-align: left;
 }

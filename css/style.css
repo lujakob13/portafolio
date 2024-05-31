@@ -41,6 +41,7 @@ a{
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-color: #E9E8E6 ;
 }
 .introduccion{
     align-items: flex-start;
@@ -53,8 +54,7 @@ a{
 }
 .texto{
     text-align: left;
-    color: #979797;
+    color: #6B6B6B; 
     font-size: 30px;
-    border: 2px solid red;
     width: 300px;
 }

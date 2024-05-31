@@ -23,3 +23,10 @@ header{
     font-size: 22px;
     padding: 10px 0 10px 0;
 }
+
+nav{
+    color: #fff;
+    font-size: 15px;
+    padding: 10px 0 10px 0;
+    text-transform: uppercase;
+}

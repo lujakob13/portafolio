@@ -108,7 +108,7 @@ button{
     width: 300px;
     position: relative;
     top: 40px;
-    right: 510px;
+    right: 435px;
     color: #6B6B6B;  
 }
 
@@ -117,17 +117,33 @@ button{
     right: 200px;
     color: #6B6B6B;  
     width: 300px;
-    border: 2px solid yellow;
+
+
 }
 .tecnologias{
     border: 2px solid red;
     position: relative;
 }
+.html{
+    position: relative;
+    width: 39px;
+    border: solid 1px #FFD04F;
+    padding: 8px;
+}
+
 .css{
     position: relative;
-    margin-left:55px ;
+    margin-left:70px ;
     width: 30px;
-    bottom: 20px;
+    bottom: 37px;
     border: solid 1px #FFD04F;
     padding: 8px;  
+}
+.python{
+    position: relative;
+    width: 60px;
+    border: solid 1px #FFD04F;
+    padding: 8px;
+    left: 44%;
+    bottom: 74px;
 }

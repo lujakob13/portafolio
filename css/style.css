@@ -92,9 +92,19 @@ button{
     border: 2px solid red;
     width: 100%;
     height: 300px;
-}
-h3{
-    align-items: center;
     justify-content: center;
-    border: 2px solid yellow;
+    align-items: center;
+}
+.titulo{
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    height: 65px;
+    position: relative;
+    left: 38%;
+    bottom: 50px;
+}
+.conoceme{
+    position: relative;
+    top: 150px;
+    left: 40px,
 }

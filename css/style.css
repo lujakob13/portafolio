@@ -67,3 +67,7 @@ a{
     background-clip: text;
     -webkit-background-clip: text;
 }
+.foto{
+    position: relative;
+    left: 80px;
+}

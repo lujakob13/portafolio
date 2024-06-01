@@ -119,4 +119,5 @@ button{
 }
 .tecnologias{
     border: 2px solid red;
+    position: relative;
 }

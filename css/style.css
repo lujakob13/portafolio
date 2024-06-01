@@ -49,18 +49,21 @@ a{
     right: 400px;
     width: 220px;
     height: 200px;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 700;
 }
 .texto{
     text-align: left;
     color: #6B6B6B; 
-    font-size: 30px;
+    font-size: 40px;
     width: 300px;
 }
-.nombre{
+.nombre-presentacion{
     text-align: left;
-    color: #6B6B6B; 
-    font-size: 30px;
+    font-size: 40px;
     width: 300px;
+    background: linear-gradient(to right, #FFD04F , #6B6B6B);
+    color: transparent; 
+    background-clip: text;
+    -webkit-background-clip: text;
 }

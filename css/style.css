@@ -97,7 +97,6 @@ button{
 }
 .titulo{
     text-align: center;
-    border: 2px solid rebeccapurple;
     width: 440px;
     height: 65px;
     position: relative;
@@ -108,7 +107,8 @@ button{
 .conoceme{
     width: 300px;
     position: relative;
-    top: 150px;
-    right: 550px;
+    top: 40px;
+    right: 510px;
     border: solid 2px yellow;
+    color: #6B6B6B;  
 }

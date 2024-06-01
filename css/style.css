@@ -98,15 +98,17 @@ button{
 .titulo{
     text-align: center;
     border: 2px solid rebeccapurple;
-    width: 500px;
+    width: 440px;
     height: 65px;
     position: relative;
-    left: 38%;
+    left: 16%;
     bottom: 100px;
     color: #6B6B6B;  
 }
 .conoceme{
+    width: 300px;
     position: relative;
     top: 150px;
-    left: 40px;
+    right: 550px;
+    border: solid 2px yellow;
 }

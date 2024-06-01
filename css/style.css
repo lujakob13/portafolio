@@ -52,14 +52,16 @@ a{
     right: 400px;
     width: 220px;
     height: 200px;
-    font-size: 40px;
+    font-size: 25px;
     font-weight: 700;
+    bottom: 70px;
 }
 .texto{
     text-align: left;
     color: #6B6B6B; 
     font-size: 40px;
     width: 300px;
+    padding-bottom: 30px;
 }
 .nombre-presentacion{
     text-align: left;

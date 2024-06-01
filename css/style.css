@@ -87,6 +87,7 @@ button{
     color: #FFC121;
     font-size: 20px;
     cursor: pointer;
+    font-weight: 400;
 }
 /* about */
 .about{
@@ -111,7 +112,7 @@ button{
     width: 300px;
     position: relative;
     top: 80px;
-    right: 435px;
+    right: 512px;
     color: #6B6B6B; 
     font-weight: 700; 
 }

@@ -116,8 +116,18 @@ button{
     position: relative;
     right: 200px;
     color: #6B6B6B;  
+    width: 300px;
+    border: 2px solid yellow;
 }
 .tecnologias{
     border: 2px solid red;
     position: relative;
+}
+.css{
+    position: relative;
+    margin-left:55px ;
+    width: 30px;
+    bottom: 20px;
+    border: solid 1px #FFD04F;
+    padding: 8px;  
 }

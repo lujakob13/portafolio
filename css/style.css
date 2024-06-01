@@ -70,4 +70,5 @@ a{
 .foto{
     position: absolute;
     left: 670px;
+    filter: drop-shadow(5px 5px 10px#F6AB3A);
 }

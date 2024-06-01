@@ -89,7 +89,6 @@ button{
 /* about */
 .about{
     display: flex;
-    border: 2px solid red;
     width: 100%;
     height: 450px;
     justify-content: center;
@@ -103,9 +102,6 @@ button{
     left: 22%;
     bottom: 100px;
     color: #6B6B6B;  
-
-    border: solid 2px red;
-
 }
 .conoceme{
     width: 300px;
@@ -166,4 +162,7 @@ h3{
     padding-bottom: 20px;
     color: black;
     font-size: 30px;
+}
+.primera_letra{
+        text-decoration:underline;
 }

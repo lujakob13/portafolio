@@ -12,16 +12,19 @@ body{
 }
 /* header */
 header{
-    background-color: #F6AB3A;
+    background-color: #E5AB33;
     display: flex;
     align-items: center;
     justify-content: center;
     justify-content: space-around;
+    padding-bottom: 5px;
 }
 .nombre{
     color: #fff;
     font-size: 22px;
     padding: 10px 0 10px 0;
+    position: relative;
+    right: 50px;
 }
 
 nav{

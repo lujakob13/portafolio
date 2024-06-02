@@ -193,3 +193,11 @@ h3{
 .primera_letra{
         text-decoration:underline #E5AB33;
 }
+
+/* proyectos */
+.proyectos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E9E8E6;
+}

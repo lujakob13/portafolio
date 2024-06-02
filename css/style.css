@@ -3,7 +3,6 @@
 body{
     font-family: "Roboto", sans-serif;
     font-weight: 100;
-    font-style: normal;
 }
 /* selector universal */
 *{
@@ -24,7 +23,7 @@ header{
     font-size: 22px;
     padding: 10px 0 10px 0;
     position: relative;
-    right: 50px;
+    right: 1%;
 }
 
 nav{
@@ -50,8 +49,8 @@ a{
     align-items: flex-start;
     position: relative;
     right: 400px;
-    width: 220px;
-    height: 200px;
+    width: 18%;
+    height: 24%;
     font-size: 25px;
     font-weight: 700;
     bottom: 70px;
@@ -171,4 +170,3 @@ h3{
 .primera_letra{
         text-decoration:underline #E5AB33;
 }
-

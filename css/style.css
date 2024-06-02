@@ -134,11 +134,15 @@ h1{
     display: flex;
     justify-content: center;
     position: relative;
-    right: 10%;
+    right: 9%;
     color: #6B6B6B;  
     width: 35%;
     height: 33%;
-    top: 15%;
+    top: 12%;
+}
+.titulo_about{
+    position: relative;
+    height: 26%;
 }
 .tecnologias{
     display: flex;

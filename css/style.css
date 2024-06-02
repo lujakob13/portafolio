@@ -131,51 +131,17 @@ h1{
 }
 
 .habilidades{
+    display: flex;
+    justify-content: center;
     position: relative;
-    right: 200px;
+    right: 17%;
     color: #6B6B6B;  
-    width: 300px;
-    top: 62px;
-}
-.tecnologias{
-    position: relative;
-}
-.html{
-    position: relative;
-    width: 41px;
-    border: solid 1px #FFD04F;
-    padding: 8px;
-    /* lo mismo para todas las tecnoloigas */
-    background-color: #ECD595;
-    color: black;
-    font-weight: 500;
-    border-radius: 3px;
+    width: 35%;
+    height: 32%;
+    top: 15%;
+    border: solid 2px red;
 }
 
-.css{
-    position: relative;
-    margin-left:70px ;
-    width: 30px;
-    bottom: 37px;
-    border: solid 1px #FFD04F;
-    padding: 8px;
-    background-color: #ECD595;
-    color: black;
-    font-weight: 500;
-    border-radius: 3px;  
-}
-.python{
-    position: relative;
-    width: 60px;
-    border: solid 1px #FFD04F;
-    padding: 8px;
-    left: 44%;
-    bottom: 74px;
-    background-color: #ECD595;
-    color: black;
-    font-weight: 500;
-    border-radius: 3px;
-}
 h3{
     padding-bottom: 20px;
     color: black;

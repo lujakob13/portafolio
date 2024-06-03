@@ -208,6 +208,11 @@ h3{
     height: 60vh;
     background-color: #E9E8E6;
 }
+.titulo_proyectos{
+    border: solid 2px red;
+    position: absolute;
+    height: 39%;
+}
 .img_sevices{
-    width: 30%;
+    width: 40%;
 }

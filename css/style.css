@@ -209,10 +209,13 @@ h3{
     background-color: #E9E8E6;
 }
 .titulo_proyectos{
-    border: solid 2px red;
-    position: absolute;
-    height: 39%;
+    position: relative;
+    height: 70%;
+    left: 29.99%;
+    text-align: center;
+    color: #6B6B6B; 
+    font-weight: 700; 
 }
 .img_sevices{
-    width: 40%;
+    width: 20%;
 }

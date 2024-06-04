@@ -224,10 +224,8 @@ h3{
 .imagen_pr{
     position: relative;
     right: 43%;
-    top: 3%;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("/img/services.jpeg") no-repeat center center;
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("/img/services.jpeg") no-repeat center center;
     background-size: cover;
-    border: solid 2px red;
     width: 300px;
     height: 200px;
     flex-grow: 1;

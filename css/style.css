@@ -211,11 +211,34 @@ h3{
 .titulo_proyectos{
     position: relative;
     height: 70%;
-    left: 29.99%;
+    left: 3.5%;
     text-align: center;
     color: #6B6B6B; 
     font-weight: 700; 
 }
-.img_sevices{
-    width: 20%;
+.proyecto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagen_pr{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: url("/img/services.jpeg") no-repeat center center;
+    background-size: cover;
+    border: solid 2px red;
+    width: 300px;
+    height: 200px;
+    flex-grow: 1;
+}
+.ver_proyecto{
+    position: relative;
+    top:7% ;
+    left: 13%;
+    width: 55%;
+}
+h4{
+    text-align: center;
+    margin-top: 55px;
 }

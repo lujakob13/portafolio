@@ -225,7 +225,7 @@ h3{
     position: relative;
     right: 43%;
     top: 3%;
-    background: url("/img/services.jpeg") no-repeat center center;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("/img/services.jpeg") no-repeat center center;
     background-size: cover;
     border: solid 2px red;
     width: 300px;
@@ -241,4 +241,6 @@ h3{
 .services{
     text-align: center;
     margin-top: 55px;
+    color: #fff;
+    font-weight: 500;
 }

@@ -223,12 +223,14 @@ h3{
 }
 .imagen_pr{
     position: relative;
+    justify-content: center;
     right: 43%;
     background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("/img/services.jpeg") no-repeat center center;
     background-size: cover;
     width: 300px;
     height: 200px;
     flex-grow: 1;
+    top: 60px;
 }
 .ver_proyecto{
     position: relative;

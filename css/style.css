@@ -300,10 +300,23 @@ ul{
     left: 8%;
     color:#E5AB33;
 }
-.github, .linkedin{
+.github{
     color: #E5AB33;
     font-weight: 400;
+    transition: underline 0.5s;
 }
+.linkedin{
+    color: #E5AB33;
+    font-weight: 400;
+    transition: underline 0.5s;
+}
+.github:hover{
+    text-decoration: underline;
+}
+.linkedin:hover{
+    text-decoration: underline;
+}
+
 
 .contacto{
     color: #fff;

@@ -300,7 +300,7 @@ ul{
     left: 8%;
     color:#E5AB33;
 }
-a{
+.github, .linkedin{
     color: #E5AB33;
     font-weight: 400;
 }

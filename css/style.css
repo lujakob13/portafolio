@@ -162,7 +162,7 @@ h1{
     font-weight: 700; 
 }
 .texto_sobre_mi{
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .habilidades{
@@ -358,4 +358,7 @@ ul{
     right: 31px;
     font-weight: 400;
     font-size: 20px;
+}
+p{
+    font-size: 17px;
 }

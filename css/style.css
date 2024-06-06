@@ -276,7 +276,17 @@ h3{
     font-weight: 500;
 }
 /* contacto */
-.contacto{
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    width: 100%;
     background-color: #000;
+}
+.contacto{
+    color: #fff;
+}
+.titulo_contacto{
     color: #fff;
 }

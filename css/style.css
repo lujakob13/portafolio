@@ -32,7 +32,24 @@ nav{
     padding: 10px 0 10px 0;
     text-transform: uppercase;
 }
-
+.sobre_mi{
+    transition: underline 0.5s;
+}
+.sobre_mi:hover{
+    text-decoration: underline;
+}
+.pro{
+    transition: underline 0.5s;
+}
+.pro:hover{
+    text-decoration: underline;
+}
+.cont{
+    transition: underline 0.5s;
+}
+.cont:hover{
+    text-decoration: underline;
+}
 
 a{
     text-decoration: none;

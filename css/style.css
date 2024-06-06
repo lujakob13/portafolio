@@ -227,7 +227,7 @@ h3{
     align-items: center;
 }
 .primera_letra{
-        text-decoration:underline #E5AB33;
+    text-decoration:underline #E5AB33;
 }
 
 /* proyectos */
@@ -301,6 +301,8 @@ footer{
     top: 12px;
     right: 170%;
     padding-bottom: 3px;
+    font-weight: 400;
+    font-size: 20px;
 }
 ul{
     position: absolute;

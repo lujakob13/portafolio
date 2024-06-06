@@ -79,7 +79,7 @@ a{
     -webkit-background-clip: text;
 }
 .foto{
-    background-image: url(/img/imagen-sin-fondo.png);
+    background-image: url(img/imagen-sin-fondo.png);
     flex-basis: 100px;
     position: absolute;
     left: 49%;
@@ -98,7 +98,14 @@ button{
     font-size: 130%;
     cursor: pointer;
     font-weight: 400;
+    transition: background-color, color 0.5s;
 }
+button:hover{
+    background-color: #FFD04F;
+    color: #fff;
+}
+
+
 h1{
     font-size: 250%;
 }

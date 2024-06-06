@@ -284,6 +284,13 @@ footer{
     width: 100%;
     background-color: #000;
 }
+.titulo_contacto{
+    color: #fff;
+    position: relative;
+    bottom: 35px;
+    font-size: 35px;
+    right: 10%;
+}
 .social{
     position: relative;
     right: 400%;
@@ -299,8 +306,5 @@ a{
 }
 
 .contacto{
-    color: #fff;
-}
-.titulo_contacto{
     color: #fff;
 }

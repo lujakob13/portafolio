@@ -314,6 +314,11 @@ ul{
     font-weight: 400;
     transition: underline 0.5s;
 }
+.linke{
+    position: relative;
+    left: 80px;
+    bottom: 18.5px;
+}
 .github:hover{
     text-decoration: underline;
 }

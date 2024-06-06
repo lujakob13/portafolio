@@ -284,11 +284,20 @@ footer{
     width: 100%;
     background-color: #000;
 }
-
+.social{
+    position: relative;
+    right: 400%;
+}
 ul{
     position: absolute;
-    left: 12%;
+    left: 8%;
+    color:#E5AB33;
 }
+a{
+    color: #E5AB33;
+    font-weight: 400;
+}
+
 .contacto{
     color: #fff;
 }

@@ -288,13 +288,14 @@ footer{
     color: #fff;
     position: relative;
     bottom: 35px;
+    left: 5px;
     font-size: 35px;
-    right: 24%;
 }
 .social{
     position: relative;
-    right: 290%;
-    padding-bottom: 12px;
+    top: 12px;
+    right: 170%;
+    padding-bottom: 3px;
 }
 ul{
     position: absolute;
@@ -335,14 +336,15 @@ ul{
     background-color: #000;
     position: relative;
     bottom: 18px;
-    left: 250%;
-    width: 150%;
+    left: 175%;
+    width: 90%;
     height: 60px;
     font-weight: 300;
 }
 .saber{
     position:relative;
-    bottom: 60px;
-    right: 52px;
-    font-weight: 500;
+    bottom: 67px;
+    right: 31px;
+    font-weight: 400;
+    font-size: 20px;
 }

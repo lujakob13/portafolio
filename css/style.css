@@ -98,7 +98,7 @@ a{
     -webkit-background-clip: text;
 }
 .foto{
-    background-image: url(img/imagen-sin-fondo.png);
+    background-image: url("img/imagen-sin-fondo.png");
     flex-basis: 100px;
     position: absolute;
     left: 49%;
@@ -251,7 +251,7 @@ h3{
     position: relative;
     justify-content: center;
     right: 44%;
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("/img/services.jpeg") no-repeat center center;
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("img/services.jpeg") no-repeat center center;
     background-size: cover;
     width: 300px;
     height: 200px;
@@ -274,4 +274,9 @@ h3{
     margin-top: 55px;
     color: #fff;
     font-weight: 500;
+}
+/* contacto */
+.contacto{
+    background-color: #000;
+    color: #fff;
 }

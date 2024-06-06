@@ -74,9 +74,13 @@ a{
     font-size: 100%;
     right: 22.5%;
     font-weight: 700;
-    top: 7%;
-    bottom: 13%;
+    bottom: 9%;
 }
+.saludo{
+    position: relative;
+    top: 11.5%;
+}
+
 .texto{
     position: relative;
     text-align: left;

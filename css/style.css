@@ -91,7 +91,7 @@ button{
     width: 71%;
     padding: 4%;
     bottom: 26%;
-    border: solid 2px #FFD04F;
+    border: solid 1.8px #FFD04F;
     border-radius: 5px;
     font-family: "Roboto", sans-serif;
     color: #FFC121;
@@ -224,7 +224,7 @@ h3{
 .imagen_pr{
     position: relative;
     justify-content: center;
-    right: 43%;
+    right: 44%;
     background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url("/img/services.jpeg") no-repeat center center;
     background-size: cover;
     width: 300px;
@@ -237,6 +237,11 @@ h3{
     top:7% ;
     left: 18%;
     width: 55%;
+    transition: background-color, color 0.5s;
+}
+.ver_proyecto:hover{
+    background-color: #FFD04F;
+    color: #fff;
 }
 .services{
     text-align: center;

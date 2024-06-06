@@ -297,15 +297,19 @@ footer{
 }
 ul{
     position: absolute;
-    left: 8%;
+    left: 9%;
     color:#E5AB33;
 }
 .github{
+    position: relative;
+    right: 17px;
     color: #E5AB33;
     font-weight: 400;
     transition: underline 0.5s;
 }
 .linkedin{
+    position: relative;
+    right: 17px;
     color: #E5AB33;
     font-weight: 400;
     transition: underline 0.5s;

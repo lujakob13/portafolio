@@ -343,15 +343,7 @@ ul{
 .contacto{
     color: #fff;
 }
-.contactame{
-    background-color: #000;
-    position: relative;
-    bottom: 18px;
-    left: 175%;
-    width: 90%;
-    height: 60px;
-    font-weight: 300;
-}
+
 .saber{
     position:relative;
     bottom: 67px;
@@ -361,4 +353,21 @@ ul{
 }
 p{
     font-size: 17px;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px red;
+    width: 100%;
+}
+label{
+    position: relative;
+    bottom: 18px;
+    left: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin-top: 18px;
 }

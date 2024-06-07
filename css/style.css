@@ -289,7 +289,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 50vh;
+    height: 75vh;
     width: 100%;
     background-color: #000;
 }
@@ -297,7 +297,7 @@ footer{
     color: #fff;
     position: relative;
     bottom: 35px;
-    left: 5px;
+    left: 39%;
     font-size: 35px;
 }
 .social{
@@ -347,7 +347,7 @@ ul{
 .saber{
     position:relative;
     bottom: 67px;
-    right: 31px;
+    left: 36%;
     font-weight: 400;
     font-size: 20px;
 }
@@ -359,8 +359,8 @@ form{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: solid 2px red;
-    width: 100%;
+    width: 800px;
+    
 }
 label{
     position: relative;
@@ -368,6 +368,29 @@ label{
     left: 20px;
     margin-bottom: 20px;
 }
-input{
-    margin-top: 18px;
+.nombre{
+    border: solid 2px yellow;
+    height: 1px;
+    position: relative;
+    left: 47%;
+    bottom: 72px;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+}
+.apellido{
+    position: relative;
+    left: 9%;
+    bottom: 14px;
+}
+.email{
+    position: relative;
+    top: 45px;
+    right: 151.5px;
+}
+.mensaje{
+    position: relative;
+    top: 100px;
+    right: 396px;
 }

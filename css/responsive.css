@@ -1,4 +1,28 @@
-@media(max-width:1920px){}
+@media(max-width:1920px){
+    .nombre{
+        font-size: 40px;
+    }
+    .sobre_mi{
+        font-size: 25px;
+    }
+    .pro{
+        font-size: 25px;
+    }
+    .cont{
+        font-size: 25px;
+    }
+    .saludo{
+        font-size: 90px;
+    }
+    .texto{
+        font-size: 70px;
+    }
+    button{
+        bottom: 14.5%;
+        padding: 8%;
+        font-size: 30px;
+    }
+}
 @media(max-width:1440px){}
 @media(max-width:1280px){}
 @media(max-width:1240px){}

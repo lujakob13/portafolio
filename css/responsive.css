@@ -5,6 +5,9 @@
     .sobre_mi{
         font-size: 25px;
     }
+    .introduccion{
+        right: 23.5%;
+    }
     .pro{
         font-size: 25px;
     }
@@ -21,6 +24,28 @@
         bottom: 14.5%;
         padding: 8%;
         font-size: 30px;
+    }
+    .foto{
+        left: 47%;
+        height: 77%;
+    }
+    h3{
+        font-size: 55px;
+    }
+    .titulo{
+        bottom: 170px;
+    }
+    p{
+        font-size: 27px;
+    }
+    .conoceme{
+        right: 18.5%;
+    }
+    .titulo_about{
+        top: 10%;
+    }
+    .tecnologias{
+        right: 51.5%;
     }
 }
 @media(max-width:1440px){}

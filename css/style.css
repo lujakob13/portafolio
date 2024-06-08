@@ -422,7 +422,7 @@ label{
     border: solid 2px #E5AB33;
     position: relative;
     top: 140px;
-    right: 344px;
+    right: 342px;
     width: 300px;
     border-top: transparent;
     border-left: transparent;
@@ -435,4 +435,15 @@ label{
 .escribir{
     top: 98px;
     left: -282px;
+}
+.enviar{
+    position: relative;
+    top: 164px;
+    right: 303px;
+    padding: 3%;
+    padding-left: 36px;
+    padding-right: 36px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: transparent;
 }

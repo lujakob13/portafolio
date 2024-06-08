@@ -296,13 +296,13 @@ footer{
 .titulo_contacto{
     color: #fff;
     position: relative;
-    bottom: 57px;
+    bottom: 78px;
     left: 35%;
     font-size: 35px;
 }
 .social{
     position: relative;
-    top: 12px;
+    top: 2px;
     right: 10%;
     padding-bottom: 3px;
     font-weight: 400;
@@ -320,8 +320,13 @@ ul{
     font-weight: 400;
     transition: underline 0.5s;
 }
+.git{
+    position: relative;
+    bottom: 14.6px;
+}
 .linkedin{
     position: relative;
+
     right: 17px;
     color: #E5AB33;
     font-weight: 400;
@@ -330,7 +335,7 @@ ul{
 .linke{
     position: relative;
     left: 80px;
-    bottom: 18.5px;
+    bottom: 33px;
 }
 .github:hover{
     text-decoration: underline;
@@ -338,16 +343,14 @@ ul{
 .linkedin:hover{
     text-decoration: underline;
 }
-
-
 .contacto{
     color: #fff;
 }
 
 .saber{
     position:relative;
-    bottom: 82px;
-    left: 30%;
+    bottom: 102px;
+    left: 30.5%;
     font-weight: 400;
     font-size: 20px;
 }
@@ -443,7 +446,7 @@ label{
 .enviar{
     position: relative;
     top: 164px;
-    right: 303px;
+    right: 315px;
     padding: 3%;
     padding-left: 36px;
     padding-right: 36px;

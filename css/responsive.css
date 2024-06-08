@@ -3,16 +3,16 @@
         font-size: 40px;
     }
     .sobre_mi{
-        font-size: 25px;
+        font-size: 23px;
     }
     .introduccion{
         right: 23.5%;
     }
     .pro{
-        font-size: 25px;
+        font-size: 23px;
     }
     .cont{
-        font-size: 25px;
+        font-size: 23px;
     }
     .saludo{
         font-size: 90px;
@@ -21,9 +21,9 @@
         font-size: 70px;
     }
     button{
-        bottom: 14.5%;
+        top: -14.5%;
         padding: 8%;
-        font-size: 30px;
+        font-size: 33px;
     }
     .foto{
         display: flex;
@@ -49,13 +49,13 @@
         right: 51.5%;
     }
     .titulo_proyectos{
-        left: 6.5%;
+        left: 4.5%;
         bottom: 23px;
     }
     .imagen_pr{
-        right: 73%;
-        width: 415px;
-        height: 315px;
+        left: -83%;
+        width: 420px;
+        height: 325px;
     }
     .services{
         position: relative;
@@ -66,6 +66,7 @@
         left: 20%;
         padding: 25px;
         top: 14%;
+        font-size: 27px;
     }
     footer{
         height: 94vh;
@@ -110,7 +111,7 @@
         font-size: 22px;
     }
     .nom{
-        left: 59%;
+        left: 58.5%;
         bottom: 130px;
     }
     .nombre_form{
@@ -145,16 +146,6 @@
         font-size: 170%;
         right: 465px;
         top: 285px;
-    }
-    button{
-        bottom: 25%;
-        padding: 5%;
-        font-size: 27px;
-    }
-    .imagen_pr{
-        right: 80%;
-        width: 325px;
-        height: 300px;
     }
     .ver_proyecto{
         width: 55%;

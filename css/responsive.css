@@ -47,6 +47,26 @@
     .tecnologias{
         right: 51.5%;
     }
+    .titulo_proyectos{
+        left: 6.5%;
+        bottom: 23px;
+    }
+    .imagen_pr{
+        right: 73%;
+        width: 415px;
+        height: 315px;
+    }
+    .services{
+        position: relative;
+        font-size: 27px;
+        top: 22px;
+    }
+    .ver_proyecto{
+        left: 20%;
+        padding: 25px;
+        top: 14%;
+    }
+    
 }
 @media(max-width:1440px){}
 @media(max-width:1280px){}

@@ -146,9 +146,36 @@
         right: 465px;
         top: 285px;
     }
+    button{
+        bottom: 25%;
+        padding: 5%;
+        font-size: 27px;
+    }
     
 }
-@media(max-width:1440px){}
+@media(max-width:1440px){
+    .nombre{
+        font-size:28px;
+    }
+    .sobre_mi{
+        font-size: 19px;
+    }
+    .pro{
+        font-size: 19px;
+    }
+    .cont{
+        font-size: 19px;
+    }
+    .saludo{
+        font-size: 60px;
+    }
+    .texto{
+        font-size: 40px;
+    }
+    .foto{
+        left: 45%;
+    }
+}
 @media(max-width:1280px){}
 @media(max-width:1240px){}
 @media(max-width:1024px){}

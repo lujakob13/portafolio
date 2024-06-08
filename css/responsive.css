@@ -224,20 +224,24 @@
     .social{
         right: 14%;
         font-size: 25px;
-        top: 9px;
+        top: -25px;
+    }
+    li{
+        top: -72px;
     }
     .github{
-        font-size: 22px;
+        font-size: 20px;
     }
     .git{
         font-size: 17px;
+        top: -47px;
     }
     .linkedin{
-        font-size: 22px;
+        font-size: 20px;
     }
     .linke{
         font-size: 17px;
-        bottom: 42px;
+        bottom: 40px;
         left: 100px;
     }
     .nom{

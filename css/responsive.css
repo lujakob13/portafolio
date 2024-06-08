@@ -152,12 +152,18 @@
         font-size: 27px;
     }
     .imagen_pr{
-        width: 315px;
+        right: 80%;
+        width: 325px;
         height: 300px;
+    }
+    .ver_proyecto{
+        width: 55%;
+        padding: 14px;
+        left: 17.5%;
     }
     .services{
         position: relative;
-        font-size: 20px;
+        font-size: 25px;
     }
 }
 @media(max-width:1440px){

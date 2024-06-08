@@ -179,6 +179,10 @@
     .foto{
         left: 45%;
     }
+    button{
+        top: -27%;
+        font-size: 25px;
+    }
     h3{
         font-size: 42px;
     }
@@ -197,7 +201,13 @@
     .tecnologias{
         top: 40.5%;
     }
+    .imagen_pr{
+        left: -77%;
+        width: 360px;
+        height: 275px;
+    }
     .ver_proyecto{
+        font-size:23px ;
         left: 18%;
         padding: 12px;
         padding-top: 10px;
@@ -205,6 +215,7 @@
         top: 19%;
     }
     .services{
+        font-size: 20px;
         top: 42px;
         left: 2px;
     }

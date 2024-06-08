@@ -369,9 +369,8 @@ label{
     left: 20px;
     margin-bottom: 20px;
 }
-.nombre{
+.nombre_form{
     border: solid 2px #E5AB33;
-    height: 0.2px;
     position: relative;
     left: 44%;
     bottom: 72px;
@@ -380,13 +379,14 @@ label{
     border-right: transparent;
     background-color: transparent;
     width: 180px;
+    color: #fff;
 }
 .nom{
     position: relative;
     left: 50.7%;
     bottom: 82px;
 }
-.apellido{
+.apellido_form{
     border: solid 2px #E5AB33;
     position: relative;
     left: 14.9%;
@@ -402,7 +402,7 @@ label{
     bottom: 25px;
     left: 171px;
 }
-.email{
+.email_form{
     border: solid 2px #E5AB33;
     position: relative;
     top: 45px;
@@ -418,7 +418,7 @@ label{
     top: 37px;
     left: -63px;
 }
-.mensaje{
+.mensaje_form{
     border: solid 2px #E5AB33;
     position: relative;
     top: 140px;

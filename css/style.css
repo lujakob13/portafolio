@@ -260,7 +260,7 @@ h3{
     position: relative;
     justify-content: center;
     right: 54%;
-    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(/img/services.jpeg) no-repeat center center;
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(../img/services.jpeg) no-repeat center center;
     background-size: cover;
     width: 300px;
     height: 200px;

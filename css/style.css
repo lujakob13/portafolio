@@ -385,11 +385,12 @@ label{
     position: relative;
     left: 50.7%;
     bottom: 82px;
+    font-weight: 400;
 }
 .apellido_form{
     border: solid 2px #E5AB33;
     position: relative;
-    left: 14.9%;
+    left: 14.4%;
     bottom: 14px;
     border-top: transparent;
     border-left: transparent;
@@ -400,13 +401,14 @@ label{
 .apelli{
     position: relative;
     bottom: 25px;
-    left: 171px;
+    left: 169px;
+    font-weight: 400;
 }
 .email_form{
     border: solid 2px #E5AB33;
     position: relative;
     top: 45px;
-    right: 101px;
+    right: 106.5px;
     border-top: transparent;
     border-left: transparent;
     border-right: transparent;
@@ -416,13 +418,14 @@ label{
 .correo{
     position: relative;
     top: 37px;
-    left: -63px;
+    left: -68px;
+    font-weight: 400;
 }
 .mensaje_form{
     border: solid 2px #E5AB33;
     position: relative;
     top: 140px;
-    right: 342px;
+    right: 349px;
     width: 300px;
     border-top: transparent;
     border-left: transparent;
@@ -434,7 +437,8 @@ label{
 }
 .escribir{
     top: 98px;
-    left: -282px;
+    left: -288px;
+    font-weight: 400;
 }
 .enviar{
     position: relative;
@@ -446,4 +450,6 @@ label{
     padding-top: 6px;
     padding-bottom: 6px;
     background-color: transparent;
+    border: none;
+    font-size: 115%;
 }

@@ -26,6 +26,7 @@
         font-size: 30px;
     }
     .foto{
+        display: flex;
         left: 47%;
         height: 77%;
     }
@@ -65,6 +66,85 @@
         left: 20%;
         padding: 25px;
         top: 14%;
+    }
+    footer{
+        height: 94vh;
+    }
+    .titulo_contacto{
+        font-size: 55px;
+        bottom: 180px;
+        left: 24%;
+    }
+    .saber{
+        bottom: 210px;
+        left: 19%;
+        font-size: 27px;
+    }
+    .social{
+        font-size: 40px;
+        right: 38%;
+    }
+    .github{
+        font-size: 30px;
+    }
+    .git{
+        font-size: 20px;
+    }
+    .linkedin{
+        font-size: 30px;
+        top: 2px;
+    }
+    .linke{
+        font-size: 20px;
+        left: 125px;
+        bottom: 50px;
+    }
+    form{
+        bottom: 30px;
+    }
+    label{
+        font-size: 22px;
+    }
+    input{
+        padding-top: 22px;
+        font-size: 22px;
+    }
+    .nom{
+        left: 59%;
+        bottom: 130px;
+    }
+    .nombre_form{
+        left: 49%;
+        bottom: 100px;
+    }
+    .apelli{
+        left: 212px;
+        bottom: 30px;
+    }
+    .apellido_form{
+        left: 16.7%;
+        top: 5px;
+    }
+    .correo{
+        left: -113px;
+        top: 75px;
+    }
+    .email_form{
+        top: 105px;
+        right: 169px;
+    }
+    .escribir{
+        top: 190px;
+        left: -415px;
+    }
+    .mensaje_form{
+        top: 250px;
+        right: 504px;
+    }
+    .enviar{
+        font-size: 170%;
+        right: 465px;
+        top: 285px;
     }
     
 }

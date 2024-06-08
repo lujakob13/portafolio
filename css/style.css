@@ -102,7 +102,7 @@ a{
     -webkit-background-clip: text;
 }
 .foto{
-    display: flex;
+
     flex-basis: 100px;
     position: absolute;
     left: 49%;

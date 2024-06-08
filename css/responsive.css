@@ -151,7 +151,14 @@
         padding: 5%;
         font-size: 27px;
     }
-    
+    .imagen_pr{
+        width: 315px;
+        height: 300px;
+    }
+    .services{
+        position: relative;
+        font-size: 20px;
+    }
 }
 @media(max-width:1440px){
     .nombre{
@@ -167,7 +174,7 @@
         font-size: 19px;
     }
     .saludo{
-        font-size: 55px;
+        font-size: 50px;
     }
     .texto{
         font-size: 40px;
@@ -185,7 +192,83 @@
         font-size: 20px;
     }
     .conoceme{
-        right: 24%;
+        right: 23.5%;
+    }
+    .habilidades{
+        top: 5.8%;
+    }
+    .tecnologias{
+        top: 40.5%;
+    }
+    .ver_proyecto{
+        left: 18%;
+        padding: 12px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        top: 19%;
+    }
+    .services{
+        top: 42px;
+        left: 2px;
+    }
+    .titulo_contacto{
+        font-size: 42px;
+        bottom: 150px;
+        left: 29%;
+    }
+    .saber{
+        left: 22.5%;
+        font-size: 24px;
+        bottom: 190px;
+    }
+    .social{
+        right: 14%;
+        font-size: 25px;
+        top: 9px;
+    }
+    .github{
+        font-size: 22px;
+    }
+    .git{
+        font-size: 17px;
+    }
+    .linkedin{
+        font-size: 22px;
+    }
+    .linke{
+        font-size: 17px;
+        bottom: 42px;
+        left: 100px;
+    }
+    .nom{
+        font-size: 20px;
+    }
+    .nombre_form{
+        left: 50.5%;
+    }
+    .apelli{
+        left: 221px;
+        font-size: 20px;
+    }
+    .apellido_form{
+        left: 19.2%;
+    }
+    .email_form{
+        right: 145px;
+    }
+    .correo{
+        font-size: 20px;
+        left: -98px;
+    }
+    .escribir{
+        font-size: 20px;
+        left: -399px;
+    }
+    .mensaje_form{
+        right: 476px;
+    }
+    .enviar{
+        font-size: 140%;
     }
 }
 @media(max-width:1280px){}

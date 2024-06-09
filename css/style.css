@@ -305,6 +305,7 @@ footer{
     padding-bottom: 3px;
     font-weight: 400;
     font-size: 20px;
+    width: 10%;
 }
 ul{
     position: absolute;
@@ -321,10 +322,10 @@ ul{
 .git{
     position: relative;
     bottom: 14.6px;
+    width: 52%;
 }
 .linkedin{
     position: relative;
-
     right: 17px;
     color: #E5AB33;
     font-weight: 400;
@@ -351,6 +352,7 @@ ul{
     left: 30.5%;
     font-weight: 400;
     font-size: 20px;
+    width: 30%;
 }
 p{
     font-size: 17px;

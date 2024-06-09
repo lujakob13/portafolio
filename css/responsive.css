@@ -321,8 +321,11 @@
     .tecnologias{
         right: 54.5%;
     }
+    .titulo_proyectos{
+        left: 10.7%;
+    }
     .imagen_pr{
-        left: -77%;
+        left: -54%;
         width: 330px;
         height: 245px;
     }

@@ -1,5 +1,6 @@
 /* tipo de letra */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
 body{
     font-family: "Roboto", sans-serif;
     font-weight: 100;
@@ -64,7 +65,6 @@ a{
     justify-content: center;
     height: 90vh;
     background-color: #E9E8E6;
-
 }
 .introduccion{
     align-items: flex-start;
@@ -141,7 +141,6 @@ h1{
     height:70vh;
     font-weight: 700;
     padding-bottom: 30px;
-
 }
 .titulo{
     text-align: center;
@@ -150,7 +149,6 @@ h1{
     left: 28%;
     bottom: 100px;
     color: #6B6B6B;
-    
 }
 .conoceme{
     flex-basis: 30%;

@@ -414,7 +414,41 @@
         top: 225px;
     }
 }
-@media(max-width:1024px){}
+@media(max-width:1024px){
+    .nombre{
+        left: 11px;
+        font-size: 23px;
+    }
+    .sobre_mi{
+        font-size: 15px;
+    }
+    .pro{
+        font-size: 15px;
+    }
+    .cont{
+        font-size: 15px;
+    }
+    .texto{
+        font-size: 36px;
+        bottom: 17px;
+    }
+    button{
+        font-size: 20px;
+        padding: 7%;
+    }
+    .foto{
+        left: 37%;
+    }
+    h3{
+        font-size: 35px;
+    }
+    p{
+        font-size: 17px;
+    }
+    .conoceme{
+        right: 29.5%;
+    }
+}
 @media(max-width:768px){}
 @media(max-width:480px){}
 @media(max-width:320px){}

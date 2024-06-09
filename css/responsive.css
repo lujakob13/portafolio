@@ -339,7 +339,32 @@
         top: 17%;
     }
     .titulo_contacto{
+        bottom: 140px;
         font-size: 38px;
+        left: 34.5%;
+    }
+    .saber{
+        bottom: 170px;
+        left: 30%;
+        font-size: 20px;
+    }
+    .social{
+        right: 9.5%;
+        font-size: 21px;
+    }
+    .github{
+        font-size: 18px;
+    }
+    .git{
+        font-size: 15px;
+    }
+    .linkedin{
+        font-size: 18px;
+    }
+    .linke{
+        font-size: 15px;
+        top: -69.5px;
+        left: 85px;
     }
     
 }

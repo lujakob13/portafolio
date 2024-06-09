@@ -283,7 +283,50 @@
         font-size: 140%;
     }
 }
-@media(max-width:1280px){}
+@media(max-width:1280px){
+    .nombre{
+        font-size: 24px;
+    }
+    .sobre_mi{
+        font-size: 16px;
+    }
+    .pro{
+        font-size: 16px;
+    }
+    .cont{
+        font-size: 16px;
+    }
+    .saludo{
+        font-size: 40px;
+    }
+    .texto{
+        font-size: 38px;
+    }
+    button{
+        font-size: 22px;
+        padding: 7%;
+    }
+    h3{
+        font-size: 38px;
+    }
+    p{
+        font-size: 18px;
+    }
+    .conoceme{
+        right: 26.5%;
+    }
+    .habilidades{
+        top: 4.4%;
+    }
+    .tecnologias{
+        right: 54.5%;
+    }
+    .imagen_pr{
+        left: -77%;
+        width: 330px;
+        height: 245px;
+    }
+}
 @media(max-width:1240px){}
 @media(max-width:1024px){}
 @media(max-width:768px){}

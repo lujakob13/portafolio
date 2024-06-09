@@ -329,6 +329,19 @@
         width: 330px;
         height: 245px;
     }
+    .services{
+        font-size: 18px;
+        top: 35px;
+    }
+    .ver_proyecto{
+        font-size:20px ;
+        left: 18%;
+        top: 17%;
+    }
+    .titulo_contacto{
+        font-size: 38px;
+    }
+    
 }
 @media(max-width:1240px){}
 @media(max-width:1024px){}

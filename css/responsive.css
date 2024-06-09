@@ -486,7 +486,7 @@
 @media(max-width:768px){
     .nombre{
         font-size: 21px;
-        left: 35px;
+        left: 34px;
     }
     .sobre_mi{
         font-size: 14px;
@@ -509,6 +509,17 @@
     }
     .texto{
         font-size: 34px;
+    }
+    button{
+        font-size: 17px;
+        padding: 5%;
+        top: -1px;
+    }
+    h3{
+        font-size: 32px;
+    }
+    p{
+        font-size: 15px;
     }
 }
 @media(max-width:480px){}

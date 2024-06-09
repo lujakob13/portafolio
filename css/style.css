@@ -102,7 +102,6 @@ a{
     -webkit-background-clip: text;
 }
 .foto{
-
     flex-basis: 100px;
     position: absolute;
     left: 49%;
@@ -357,7 +356,6 @@ ul{
 p{
     font-size: 17px;
 }
-
 form{
     display: flex;
     align-items: center;

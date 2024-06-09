@@ -483,6 +483,33 @@
         top: -32px;
     }
 }
-@media(max-width:768px){}
+@media(max-width:768px){
+    .nombre{
+        font-size: 21px;
+        left: 35px;
+    }
+    .sobre_mi{
+        font-size: 14px;
+    }
+    .pro{
+        font-size: 14px;
+    }
+    .cont{
+        font-size: 14px;
+    }
+    nav{
+        position: relative;
+        left: 10%;
+    }
+    form{
+        width: 500px;
+    }
+    .saludo{
+        font-size: 37px;
+    }
+    .texto{
+        font-size: 34px;
+    }
+}
 @media(max-width:480px){}
 @media(max-width:320px){}

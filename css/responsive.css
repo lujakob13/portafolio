@@ -267,34 +267,40 @@
         left: 100px;
     }
     .nom{
+        left: 60%;
         font-size: 20px;
     }
     .nombre_form{
-        left: 50.5%;
+        font-size: 20px;
+        left: 51.5%;
     }
     .apelli{
-        left: 221px;
+        left: 232px;
         font-size: 20px;
     }
     .apellido_form{
-        left: 19.2%;
+        font-size: 20px;
+        left: 20.3%;
     }
     .email_form{
-        right: 145px;
+        font-size: 20px;
+        right: 115px;
     }
     .correo{
         font-size: 20px;
-        left: -98px;
+        left: -65px;
     }
     .escribir{
         font-size: 20px;
-        left: -399px;
+        left: -347px;
     }
     .mensaje_form{
-        right: 476px;
+        font-size: 20px;
+        right: 421px;
     }
     .enviar{
         font-size: 140%;
+        right: 400px;
     }
 }
 @media(max-width:1280px){

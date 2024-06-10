@@ -833,7 +833,6 @@
         right: 282px;
     }
     .enviar{
-        width: 2%;
         font-size: 95%;
         right: 270px;
         padding-right: 75px;
@@ -858,11 +857,12 @@
     .cont{
         position: relative;
         left: 67%;
-        bottom: 8.5px;
+        bottom: 9px;
         font-size: 10px;
     }
     .saludo{
         font-size: 33px;
+        top: 9.7%;  
     }
     .texto{
         font-size: 30px;
@@ -871,4 +871,47 @@
         font-size: 16px;
         top: -16px;
     }
+    h3{
+        font-size: 18px;
+    }
+    p{
+        font-size: 10px;
+    }
+    .conoceme{
+        top: 12%;
+    }
+    .tecnologias{
+        right: 95%;
+    }
+    .python{
+        position: relative;
+        top: 40px;
+        right: 121px;
+    }
+    .titulo_proyectos{
+        left: 32%;
+    }
+    .imagen_pr{
+        top: 20px;
+        left: -29%;
+        width: 200px;
+        height: 120px;
+    }
+    .services{
+        font-size: 12px;
+        top: -14px;
+    }
+    .ver_proyecto{
+        font-size: 13px;
+        top: -6%;
+        left: 15%;
+    }
+    form{
+        width: 200px;
+    }
+    .enviar{
+        right: 280px;
+        padding: 2px;
+    }
+    
 }

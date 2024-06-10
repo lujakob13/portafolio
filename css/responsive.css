@@ -451,6 +451,9 @@
     .cont{
         font-size: 15px;
     }
+    .saludo{
+        top: 12.5%;
+    }
     .texto{
         font-size: 36px;
         bottom: 17px;
@@ -562,7 +565,7 @@
         right: 73.5%;
     }
     .titulo_about{
-        top: 13%;
+        top: 15%;
     }
     .tecnologias{
         top: 39%;
@@ -714,6 +717,7 @@
     }
     form{
         width: 300px;
+        left: 38px;
     }
     .conoceme{
         right: 32%;
@@ -751,6 +755,88 @@
         font-size:16px;
         top: 2%;
         left: 17%;
+    }
+    .titulo_contacto{
+        left: 32.8%;
+        font-size: 25px;
+    }
+    .saber{
+        width: 50%;
+        font-size: 13px;
+        left: 27%;
+        bottom: 125px;
+    }
+    .social{
+        left: -21.5%;
+        font-size: 15px;
+    }
+    .github{
+        font-size: 13px;
+    }
+    .git{
+        font-size: 13px;
+    }
+    .linkedin{
+        font-size: 13px;
+    }
+    .linke{
+        font-size: 12px;
+        top: -64px;
+        left: 59px;
+    }
+    ul{
+        left: 9%;
+    }
+    .nombre_form, .apellido_form, .email_form, .mensaje_form{
+        font-size: 13px;
+        padding-top: 7.5px;
+    }
+    .nom{
+        left: 108%;
+        font-size: 12px;
+        bottom: 110px;
+    }
+    .apelli{
+        left: 133px;    
+        bottom: 45px;
+        font-size: 12px;
+    }
+    .correo{
+        left: -58px;
+        top: 25px;
+        font-size: 12px;
+    }
+    .escribir{
+        left: -236px;
+        top: 95px;
+        font-size: 12px;
+    }
+    .nombre_form{
+        left: 94.3%;
+        padding-top: 7px;
+        bottom: 95px;
+        
+    }
+    .apellido_form{
+        left: 31%;
+        padding-top: 7px;
+        top: -28px;
+    }
+    .email_form{
+        right: 85px;
+        padding-top: 7px;
+        top: 42px;
+    }
+    .mensaje_form{
+        padding-top: 14px;
+        top: 138px;
+        right: 282px;
+    }
+    .enviar{
+        width: 2%;
+        font-size: 95%;
+        right: 270px;
+        padding-right: 75px;
     }
 }
 @media(max-width:320px){}

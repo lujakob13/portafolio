@@ -707,7 +707,7 @@
         width: 91%;
     }
     h3{
-        font-size: 27px;
+        font-size: 25px;
     }
     p{
         font-size: 13px;
@@ -715,15 +715,42 @@
     form{
         width: 300px;
     }
+    .conoceme{
+        right: 32%;
+    }
+    .habilidades{
+        margin-right: 15px;
+        width: 24%;
+        top: -3%;
+        right: -1%;
+    }
+    .titulo{
+        left: 28%;
+    }
     .titulo_about{
         top: 20%;
-        left: 21%;
+        left: -6%;
     }
     .tecnologias{
         top: 42.5%;
+        right: 110%;
     }
     .titulo_proyectos{
-        
+        left: 26%;
+    }
+    .services{
+        top: -5px;
+        font-size: 15px;
+    }
+    .imagen_pr{
+        left: -43%;
+        width: 230px;
+        height: 150px;
+    }
+    .ver_proyecto{
+        font-size:16px;
+        top: 2%;
+        left: 17%;
     }
 }
 @media(max-width:320px){}

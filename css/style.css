@@ -357,7 +357,6 @@ p{
     font-size: 17px;
 }
 form{
-    border: solid 2px red;
     display: flex;
     align-items: center;
     justify-content: center;

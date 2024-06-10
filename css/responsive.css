@@ -875,25 +875,26 @@
         font-size: 18px;
     }
     p{
-        font-size: 10px;
+        font-size: 11px;
     }
     .conoceme{
-        top: 12%;
+        top: 19%;
     }
     .tecnologias{
-        right: 95%;
+        right: 87%;
+        top: 33%;
     }
     .python{
         position: relative;
         top: 40px;
-        right: 121px;
+        right: 126px;
     }
     .titulo_proyectos{
         left: 32%;
     }
     .imagen_pr{
         top: 20px;
-        left: -29%;
+        left: -27%;
         width: 200px;
         height: 120px;
     }
@@ -909,8 +910,59 @@
     form{
         width: 200px;
     }
+    .titulo_contacto{
+        left: 29.5%;
+        font-size: 18px;
+        bottom: 130px;
+    }
+    .saber{
+        width: 62%;
+        font-size: 11px;
+        left: 21%;
+        bottom: 146px;
+    }
+    .social{
+        left: -24%;
+        font-size: 13px;
+        top: -37px;
+    }
+    .github{
+        right: 19.8px;
+    }
+    .linke{
+        top: -46px;
+        left: -1.3px;
+    }
+    .nombre_form, .apellido_form, .email_form, .mensaje_form{
+        font-size: 11px;
+        padding-top: 6px;
+    }
+    .nom{
+        left: 128%;
+    }
+    .apelli{
+        left: 92px;    
+    }
+    .correo{
+        left: -74px;
+    }
+    .escribir{
+        left: -228px;
+    }
+    .nombre_form{
+        left: 108%;
+    }
+    .apellido_form{
+        left: 25%;
+    }
+    .email_form{
+        right: 103px;
+    }
+    .mensaje_form{
+        right: 276px;
+    }
     .enviar{
-        right: 280px;
+        right: 250px;
         padding: 2px;
     }
     

@@ -403,7 +403,7 @@
     }
     .correo{
         left: -68px;
-        top: 54px
+        top: 54px;
     }
     .escribir{
         left: -320px;
@@ -568,10 +568,10 @@
         top: 39%;
     }
     .titulo_proyectos{
-        left: 21%;
+        left: 19%;
     }
     .imagen_pr{
-        left: -34%;
+        left: -38%;
         width: 270px;
         height: 190px;
     }
@@ -581,6 +581,83 @@
     .ver_proyecto{
         font-size:18px ;
         top: 10%;
+    }
+    .titulo_contacto{
+        bottom: 100px;
+        left: 38%;
+        font-size: 30px;
+    }
+    .saber{
+        font-size: 15px;
+        left: 32%;
+        bottom: 135px;
+    }
+    .social{
+        left: -8.5%;
+        font-size: 18px;
+    }
+    .github{
+        font-size: 15px;
+    }
+    .linkedin{
+        font-size: 15px;
+    }
+    .linke{
+        top: -65.7px;
+        left: 78px;
+    }
+    form{
+        left: 23px;
+    }
+    .nom{
+        left: 76.5%;
+        font-size: 15px;
+        bottom: 110px;
+    }
+    .apelli{
+        left: 158px;    
+        bottom: 45px;
+        font-size: 15px;
+    }
+    .correo{
+        left: -64px;
+        top: 25px;
+        font-size: 15px;
+    }
+    .escribir{
+        left: -272px;
+        top: 95px;
+        font-size: 15px;
+    }
+    .nombre_form, .apellido_form, .email_form, .mensaje_form{
+        font-size: 15px;
+    }
+    .nombre_form{
+        left: 66%;
+        padding-top: 7px;
+        bottom: 95px;
+        
+    }
+    .apellido_form{
+        left: 21.4%;
+        padding-top: 7px;
+        top: -28px;
+    }
+    .email_form{
+        right: 101px;
+        padding-top: 7px;
+        top: 42px;
+    }
+    .mensaje_form{
+        padding-top: 14px;
+        top: 138px;
+        right: 331px;
+    }
+    .enviar{
+        width: 23%;
+        font-size: 110%;
+        right: 308px;
+        top: 165px;
     }
 }
 @media(max-width:480px){}

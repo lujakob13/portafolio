@@ -516,10 +516,24 @@
         top: -1px;
     }
     h3{
-        font-size: 32px;
+        font-size: 30px;
     }
     p{
-        font-size: 15px;
+        font-size: 14px;
+    }
+    .titulo{
+        bottom: 105px;
+    }
+    .conoceme{
+        top: 30%;
+    }
+    .texto_sobre_mi{
+        position: relative;
+        border: solid red 2px;
+        bottom: 12px;
+    }
+    .tecnologias{
+        right: 73.5%;
     }
 }
 @media(max-width:480px){}

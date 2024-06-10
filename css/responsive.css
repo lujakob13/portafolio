@@ -839,4 +839,36 @@
         padding-right: 75px;
     }
 }
-@media(max-width:320px){}
+@media(max-width:320px){
+    .nombre{
+        font-size: 16px;
+    }
+    .sobre_mi{
+        font-size: 10px;
+        position: relative;
+        top: 8px;
+        left: 4px;
+    }
+    .pro{
+        font-size: 10px;
+        position: relative;
+        top: 8px;
+        right: 14px;
+    }
+    .cont{
+        position: relative;
+        left: 67%;
+        bottom: 8.5px;
+        font-size: 10px;
+    }
+    .saludo{
+        font-size: 33px;
+    }
+    .texto{
+        font-size: 30px;
+    }
+    button{
+        font-size: 16px;
+        top: -16px;
+    }
+}

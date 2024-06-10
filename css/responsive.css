@@ -706,8 +706,24 @@
         padding: 8px 0px 8px 0px;
         width: 91%;
     }
+    h3{
+        font-size: 27px;
+    }
+    p{
+        font-size: 13px;
+    }
     form{
         width: 300px;
+    }
+    .titulo_about{
+        top: 20%;
+        left: 21%;
+    }
+    .tecnologias{
+        top: 42.5%;
+    }
+    .titulo_proyectos{
+        
     }
 }
 @media(max-width:320px){}

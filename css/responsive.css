@@ -660,5 +660,54 @@
         top: 165px;
     }
 }
-@media(max-width:480px){}
+@media(max-width:480px){
+    .nombre{
+        font-size: 19px;
+    }
+    .sobre_mi{
+        font-size: 12px;
+        position: relative;
+        top: 8px;
+    }
+    .pro{
+        font-size: 12px;
+        position: relative;
+        top: 8px;
+    }
+    .cont{
+        position: relative;
+        left: 73%;
+        bottom: 8.5px;
+        font-size: 12px;
+    }
+    .foto{
+        display: none;
+    }
+    .introduccion{
+        text-align: center;
+        right: 3%;
+        width: 60%;
+    }
+    .saludo{
+        font-size: 36px;
+    }
+    .texto{
+        font-size: 33px;
+        text-align: center;
+    }
+    button{
+        font-size: 18px;
+        padding: 5%;
+        top: -53px;
+    }
+    nav{
+        position: relative;
+        left: 16px;
+        padding: 8px 0px 8px 0px;
+        width: 91%;
+    }
+    form{
+        width: 300px;
+    }
+}
 @media(max-width:320px){}

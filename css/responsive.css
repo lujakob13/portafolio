@@ -529,12 +529,32 @@
     }
     .texto_sobre_mi{
         position: relative;
-        border: solid red 2px;
         bottom: 12px;
         width: 120%;
     }
     .tecnologias{
         right: 73.5%;
+    }
+    .titulo_about{
+        top: 13%;
+    }
+    .tecnologias{
+        top: 39%;
+    }
+    .titulo_proyectos{
+        left: 21%;
+    }
+    .imagen_pr{
+        left: -34%;
+        width: 270px;
+        height: 190px;
+    }
+    .services{
+        top: 13px;
+    }
+    .ver_proyecto{
+        font-size:18px ;
+        top: 10%;
     }
 }
 @media(max-width:480px){}

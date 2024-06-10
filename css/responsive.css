@@ -525,12 +525,13 @@
         bottom: 105px;
     }
     .conoceme{
-        top: 25%;
+        top: 18.5%;
     }
     .texto_sobre_mi{
         position: relative;
         border: solid red 2px;
         bottom: 12px;
+        width: 120%;
     }
     .tecnologias{
         right: 73.5%;

@@ -718,6 +718,7 @@
     form{
         width: 300px;
         left: 38px;
+        top: -40px;
     }
     .conoceme{
         right: 32%;
@@ -759,12 +760,13 @@
     .titulo_contacto{
         left: 32.8%;
         font-size: 25px;
+        bottom: 130px;
     }
     .saber{
         width: 50%;
         font-size: 13px;
         left: 27%;
-        bottom: 125px;
+        bottom: 155px;
     }
     .social{
         left: -21.5%;
@@ -965,5 +967,4 @@
         right: 250px;
         padding: 2px;
     }
-    
 }

@@ -527,9 +527,6 @@
         position: relative;
         left: 10%;
     }
-    form{
-        width: 500px;
-    }
     .saludo{
         font-size: 37px;
     }
@@ -586,13 +583,13 @@
         top: 10%;
     }
     .titulo_contacto{
-        bottom: 100px;
+        bottom: 116px;
         left: 38%;
         font-size: 30px;
     }
     .saber{
         font-size: 15px;
-        left: 32%;
+        left: 34%;
         bottom: 135px;
     }
     .social{
@@ -610,7 +607,9 @@
         left: 78px;
     }
     form{
-        left: 23px;
+        top: -32px;
+        width: 500px;
+        left: 32px;
     }
     .nom{
         left: 76.5%;

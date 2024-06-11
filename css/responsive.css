@@ -372,6 +372,7 @@
     }
     form{
         top: -23px;
+        right: 45px;
     }
     .titulo_contacto{
         width: 20%;
@@ -407,7 +408,7 @@
         font-size: 18px;
     }
     .nom{
-        left: 55.5%;
+        left: 58.8%;
     }
     .apelli{
         left: 201px;
@@ -422,25 +423,25 @@
         top: 150px;
     }
     .nombre_form{
-        left: 47.5%;
+        left: 51%;
         font-size: 18px;
         bottom: 108px;
     }
     .apellido_form{
-        left: 17%;
+        left: 17.4%;
         font-size: 18px;
         top: -15px;
     }
     .email_form{
         font-size: 18px;
-        right: 115px;
+        right: 111px;
         top: 75px;
     }
     .mensaje_form{
         font-size: 18px;
         top: 198px;
         height: 3px;
-        right: 390px;
+        right: 387px;
     }
     .enviar{
         width: 53%;

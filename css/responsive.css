@@ -86,6 +86,7 @@
     .social{
         font-size: 40px;
         right: 38%;
+        left: -38%;
     }
     .github{
         font-size: 30px;
@@ -636,7 +637,7 @@
     form{
         top: -32px;
         width: 500px;
-        left: 32px;
+        left: 34px;
     }
     .nom{
         left: 76.5%;

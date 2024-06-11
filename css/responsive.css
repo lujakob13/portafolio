@@ -452,7 +452,7 @@
         font-size: 15px;
     }
     .saludo{
-        top: 12.5%;
+        top: 10.8%;
     }
     .texto{
         font-size: 36px;
@@ -475,12 +475,12 @@
         right: 29.5%;
     }
     .habilidades{
-        top: 1.1%;
+        top: 0.5%;
         right: 2%;
     }
     .tecnologias{
         right: 63.5%;
-        top: 37%;
+        top: 36%;
     }
     .titulo_proyectos{
         left: 16%;
@@ -496,13 +496,15 @@
     }
     .titulo_contacto{
         font-size: 35px;
-        left: 41.5%;
+        left: 41%;
+        bottom: 150px;
     }
     .saber{
-        left: 37%;
+        left: 36%;
     }
     form{
-        left: 29px;
+        top: -28px;
+        left: 26px;
     }
     .social{
         right: -2%;

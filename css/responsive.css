@@ -74,12 +74,12 @@
     }
     .titulo_contacto{
         font-size: 60px;
-        bottom: 200px;
-        left: 24%;
+        bottom: 220px;
+        left: 22%;
     }
     .saber{
-        bottom: 230px;
-        left: 19%;
+        bottom: 240px;
+        left: 18%;
         font-size: 28px;
     }
     .social{
@@ -103,7 +103,7 @@
     }
     form{
         bottom: 30px;
-        right: 13px;
+        right: 17px;
     }
     label{
         font-size: 22px;
@@ -114,47 +114,48 @@
     }
     .nom{
         font-size: 30px;
-        left: 70%;
+        left: 76%;
         bottom: 130px;
     }
     .nombre_form{
-        left: 57%;
+        left: 63%;
         bottom: 100px;
         font-size: 25px;
+        width: 280px;
     }
     .apelli{
         font-size: 30px;
-        left: 272px;
+        left: 223px;
         bottom: 30px;
     }
     .apellido_form{
-        left: 21%;
+        left: 15%;
         top: 5px;
         font-size: 25px;
     }
     .correo{
         font-size: 30px;
-        left: -113px;
+        left: -160px;
         top: 75px;
     }
     .email_form{
         top: 105px;
-        right: 185px;
+        right: 235px;
         font-size: 25px;
     }
     .escribir{
         font-size: 30px;
         top: 190px;
-        left: -470px;
+        left: -516px;
     }
     .mensaje_form{
         top: 250px;
-        right: 579px;
+        right: 633px;
         font-size: 25px;
     }
     .enviar{
         font-size: 240%;
-        right: 515px;
+        right: 595px;
         top: 285px;
     }
     .ver_proyecto{

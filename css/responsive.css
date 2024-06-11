@@ -157,7 +157,8 @@
     }
     .enviar{
         font-size: 240%;
-        right: 595px;
+        right: 325px;
+        left: -600px;
         top: 270px;
     }
     .ver_proyecto{
@@ -311,6 +312,7 @@
     .enviar{
         font-size: 140%;
         right: 400px;
+        left: -400px;
     }
 }
 @media(max-width:1280px){
@@ -450,6 +452,7 @@
         width: 53%;
         font-size: 130%;
         right: 378px;
+        left: -375px;
         top: 210px;
     }
 }
@@ -533,6 +536,9 @@
     }
     .mensaje_form{
         right: 387px;
+    }
+    .enviar{
+        left:-378px;
     }
     .social{
         right: -2%;
@@ -690,6 +696,7 @@
         width: 23%;
         font-size: 110%;
         right: 308px;
+        left:-318px;
         top: 155px;
     }
 }
@@ -867,6 +874,7 @@
     .enviar{
         font-size: 95%;
         right: 270px;
+        left:-273px;
         padding-right: 75px;
     }
 }
@@ -996,5 +1004,6 @@
     .enviar{
         right: 250px;
         padding: 2px;
+        left:-263px;
     }
 }

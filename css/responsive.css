@@ -207,9 +207,10 @@
         right: 23.5%;
     }
     .habilidades{
-        top: 5.8%;
+        top: 7.5%;
     }
     .tecnologias{
+        right: 52.6%;
         top: 40.5%;
     }
     .titulo_proyectos{
@@ -233,15 +234,19 @@
         top: 42px;
         left: 2px;
     }
+    form{
+        top: -47px;
+        right: 42px;
+    }
     .titulo_contacto{
         font-size: 42px;
         bottom: 150px;
         left: 31%;
     }
     .saber{
-        left: 24%;
+        left: 26%;
         font-size: 24px;
-        bottom: 190px;
+        bottom: 180px;
     }
     .social{
         right: 16.5%;
@@ -292,11 +297,11 @@
     }
     .escribir{
         font-size: 20px;
-        left: -347px;
+        left: -342px;
     }
     .mensaje_form{
         font-size: 20px;
-        right: 421px;
+        right: 418px;
     }
     .enviar{
         font-size: 140%;

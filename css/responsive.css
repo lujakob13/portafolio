@@ -517,7 +517,19 @@
     }
     form{
         top: -28px;
-        left: 26px;
+        left: 12px;
+    }
+    .apelli{
+        left: 202px;
+    }
+    .apellido_form{
+        left: 17.3%;
+    }
+    .escribir{
+        left: -315px;
+    }
+    .mensaje_form{
+        right: 387px;
     }
     .social{
         right: -2%;
